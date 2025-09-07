@@ -41,7 +41,7 @@
 | Advance Time (Day/Night)         | N           |
 | Reverse Time (Day/Night)         | M           |
 | Restart Game                     | R           |
-|------------------------------------------------|
+
 
 
 ## 🛠️ System Requirements
@@ -63,11 +63,7 @@ cd road-rush
 
 ## 🚀 Installation
 
-Install required dependencies:
-
-```bash
-pip install PyOpenGL PyOpenGL-accelerate
-```
+**No need to install any dependencies.
 
 ## 🎮 Gameplay
 
