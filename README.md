@@ -57,7 +57,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/road-rush.git
+https://github.com/aam-bd/Road-Rush-Driving-Simulation.git
 cd road-rush
 ```
 
