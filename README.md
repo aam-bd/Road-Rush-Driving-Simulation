@@ -47,10 +47,7 @@
 ## 🛠️ System Requirements
 
 - Python 3.x
-- PyOpenGL
-- PyOpenGL-accelerate
-- PyGame *(required for some installations)*
-- FreeGLUT or a similar OpenGL utility library
+- PyOpenGL (Given in the repo. No need to install again.)
 
   ## 🚀 Installation
 
